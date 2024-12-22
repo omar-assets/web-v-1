@@ -1,0 +1,36 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo Container -->
+  <g id="brix-logo">
+    <!-- Icon -->
+    <g id="icon">
+      <!-- Building Blocks representing fractional investments -->
+      <path d="M8 8h12v12H8z" fill="#2E7D32" opacity="0.9"/>
+      <path d="M20 8h12v12H20z" fill="#2E7D32" opacity="0.7"/>
+      <path d="M8 20h12v12H8z" fill="#2E7D32" opacity="0.5"/>
+      <path d="M20 20h12v12H20z" fill="#2E7D32" opacity="0.3"/>
+    </g>
+    
+    <!-- Wordmark -->
+    <g id="wordmark" transform="translate(44, 12)">
+      <text
+        fill="#1F2937"
+        font-family="ui-sans-serif, system-ui, sans-serif"
+        font-size="24"
+        font-weight="700"
+        letter-spacing="-0.02em"
+      >
+        BRiX
+      </text>
+      <text
+        fill="#2E7D32"
+        font-family="ui-sans-serif, system-ui, sans-serif"
+        font-size="24"
+        font-weight="500"
+        x="65"
+        letter-spacing="-0.02em"
+      >
+        Assets
+      </text>
+    </g>
+  </g>
+</svg>

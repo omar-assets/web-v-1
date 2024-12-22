@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Favicon/App Icon -->
+  <rect width="32" height="32" rx="8" fill="#FFFFFF"/>
+  <g transform="translate(4, 4)">
+    <!-- Building Blocks representing fractional investments -->
+    <path d="M4 4h8v8H4z" fill="#2E7D32" opacity="0.9"/>
+    <path d="M12 4h8v8H12z" fill="#2E7D32" opacity="0.7"/>
+    <path d="M4 12h8v8H4z" fill="#2E7D32" opacity="0.5"/>
+    <path d="M12 12h8v8H12z" fill="#2E7D32" opacity="0.3"/>
+  </g>
+</svg>
